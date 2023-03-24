@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sharia.habib.ula@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/hBPTZ](shorturl.at/hBPTZ)
+- 📄 Know about my experiences [CV](shariahabib.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
