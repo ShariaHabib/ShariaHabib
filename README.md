@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sharia.habib.ula@gmail.com**
 
-- 📄 Know about my experiences [CV](shariahabib.github.io)
+<!-- - 📄 Know about my experiences [CV](shariahabib.github.io) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
