@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Md. Sharia Habib Ula</h1>
 <h3 align="center">A passionate problem solver, competitive programmer & web developer from Bangladesh.</h3>
 
+<a href="https://leetcode.com/Sharia_Habib/">
+    <img alt="Leetcode" src="https://cp-logo.vercel.app/leetcode/Sharia_Habib"/>
+</a>
+
+<a href="https://codeforces.com/profile/Sharia_Habib">
+    <img alt="Codeforces" src="https://cp-logo.vercel.app/codeforces/Sharia_Habib"/>
+</a>
+
+<a href="https://www.codechef.com/users/sharia_habib13">
+    <img alt="Codechef" src="https://cp-logo.vercel.app/codechef/sharia_habib13"/>
+</a>
+<a href="https://atcoder.jp/users/sharia_habib13">
+    <img alt="Atcoder" src="https://cp-logo.vercel.app/atcoder/sharia_habib13"/>
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariahabib&label=Profile%20views&color=0e75b6&style=flat" alt="shariahabib" /> </p>
 
 - 🌱 I’m currently learning **Java Spring Boot**
